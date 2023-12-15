@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student in Electrical and Computer Engineering at UCLA advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my dual B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) and University of Glasgow in 2019. 
 
-My research interest includes computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representation. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at UT Austin.
+My research interest includes computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at UT Austin.
 
 
 # 🔥 News  
