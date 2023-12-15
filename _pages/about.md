@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Electrical and Computer Engineering at UCLA advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China. 
+I am a Ph.D. student in Electrical and Computer Engineering at UCLA advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my dual B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) and University of Glasgow in 2019. 
 
 My research interest includes computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representation. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at UT Austin.
 
@@ -27,33 +27,51 @@ My research interest includes computer vision, computational imaging and generat
 - *2021.09*: Awarded Graduate Dean's Scholar Award from UCLA.
 - *2020.06*: Awarded MS Honors Students from Columbia University.
 
-# 📝 Publications 
+# 📝 Selected Publications
+\* indicates equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/feature_3dgs_teaser.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shijie Zhou**, Haoran Chang\*, Sicheng Jiang\*, Zhiwen Fan, Zehao Zhu, Dejia Xu, Pradyumna Chari, Suya You, Zhangyang Wang, Achuta Kadambi
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/pdf/2312.03203.pdf) | [**Project**](https://feature-3dgs.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Feature 3DGS 🪄, distills feature fields from 2D foundation models, opening the door to a brand new semantic, editable, and promptable explicit 3D scene representation.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/alto.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction
+
+Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You, Gordon Wetzstein, Leonidas Guibas, Achuta Kadambi
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ALTO_Alternating_Latent_Topologies_for_Implicit_3D_Reconstruction_CVPR_2023_paper.pdf) | [**Project**](https://visual.ee.ucla.edu/alto.htm/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Rethinking latent topologies for fast and detailed implicit 3D reconstructions.
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021* Graduate Dean’s Scholar Award, UCLA
+- *2020* MS Honors Students, Columbia University
+- *2019* Outstanding Graduate, University of Electronic Science and Technology of China
+- *2018* James Watt Award, University of Glasgow
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Experience
+- *2023.06 - 2023.09*, Visiting Academic at USC ICT
 
-# 💬 Invited Talks
+# 📖 Teaching
+- Teaching Assistant @ UCLA: ECE188 Computer Vision, ECE113 Digital Signal Processing 
+- Teaching Assistant @ Columbia: EECS6690 Statistical Learning, ELEN6885 Reinforcement Learning
+- Teaching Assistant @ UoG & UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills
+
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->

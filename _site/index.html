@@ -98,15 +98,13 @@
           
             <li class="masthead__menu-item"><a href="/#-news">News</a></li>
           
-            <li class="masthead__menu-item"><a href="/#-publications">Publications</a></li>
+            <li class="masthead__menu-item"><a href="/#-selected-publications">Selected Publications</a></li>
           
             <li class="masthead__menu-item"><a href="/#-honors-and-awards">Honors and Awards</a></li>
           
-            <li class="masthead__menu-item"><a href="/#-educations">Educations</a></li>
+            <li class="masthead__menu-item"><a href="/#-experience">Experience</a></li>
           
-            <li class="masthead__menu-item"><a href="/#-invited-talks">Invited Talks</a></li>
-          
-            <li class="masthead__menu-item"><a href="/#-internships">Internships</a></li>
+            <li class="masthead__menu-item"><a href="/#-teaching">Teaching</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -123,12 +121,12 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="images/myself_50d.jpeg" class="author__avatar" alt="Shijie Zhou">
+    <img src="images/myself.jpeg" class="author__avatar" alt="Shijie Zhou">
   </div>
 
   <div class="author__content">
     <h3 class="author__name">Shijie Zhou</h3>
-    <p class="author__bio">PhD Student at UCLA</p>
+    <p class="author__bio">Ph.D. Student at UCLA</p>
   </div>
 
   <div class="author__urls-wrapper">
@@ -238,7 +236,7 @@
             
 <p><span class="anchor" id="about-me"></span></p>
 
-<p>I am a PhD student in Electrical and Computer Engineering at UCLA advised by <a href="https://www.ee.ucla.edu/achuta-kadambi/">Prof. Achuta Kadambi</a>. Previously, I obtained my M.S. in Electrical Engineering from Columbia University, where I was fortunate to be advised by <a href="https://www.columbia.edu/~jw2966/">Prof. John Wright</a>. I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China.</p>
+<p>I am a Ph.D. student in Electrical and Computer Engineering at UCLA advised by <a href="https://www.ee.ucla.edu/achuta-kadambi/">Prof. Achuta Kadambi</a>. Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by <a href="https://www.columbia.edu/~jw2966/">Prof. John Wright</a>. I received my dual B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) and University of Glasgow in 2019.</p>
 
 <p>My research interest includes computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representation. I am also actively collaborating with the groups of <a href="https://geometry.stanford.edu/member/guibas/">Prof. Leonidas Guibas</a> at Stanford University and <a href="https://www.ece.utexas.edu/people/faculty/atlas-wang">Prof. Atlas Wang</a> at UT Austin.</p>
 
@@ -249,48 +247,60 @@
   <li><em>2020.06</em>: Awarded MS Honors Students from Columbia University.</li>
 </ul>
 
-<h1 id="-publications">📝 Publications</h1>
+<h1 id="-selected-publications">📝 Selected Publications</h1>
+<p>* indicates equal contribution</p>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2016</div><img src="images/500x300.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv</div><img src="images/feature_3dgs_teaser.gif" alt="sym" width="100%" /></div></div>
 <div class="paper-box-text">
 
-    <p><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf">Deep Residual Learning for Image Recognition</a></p>
+    <h2 id="feature-3dgs-supercharging-3d-gaussian-splatting-to-enable-distilled-feature-fields">Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields</h2>
 
-    <p><strong>Kaiming He</strong>, Xiangyu Zhang, Shaoqing Ren, Jian Sun</p>
+    <p><strong>Shijie Zhou</strong>, Haoran Chang*, Sicheng Jiang*, Zhiwen Fan, Zehao Zhu, Dejia Xu, Pradyumna Chari, Suya You, Zhangyang Wang, Achuta Kadambi</p>
 
-    <p><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DhtAFkwAAAAJ&amp;citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
+    <p><a href="https://arxiv.org/pdf/2312.03203.pdf"><strong>Paper</strong></a> | <a href="https://feature-3dgs.github.io/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
     <ul>
-      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
+      <li>Feature 3DGS 🪄, distills feature fields from 2D foundation models, opening the door to a brand new semantic, editable, and promptable explicit 3D scene representation.</li>
     </ul>
   </div>
 </div>
 
-<ul>
-  <li><a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C, <strong>CVPR 2020</strong></li>
-</ul>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2023</div><img src="images/alto.gif" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <h2 id="alto-alternating-latent-topologies-for-implicit-3d-reconstruction">ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction</h2>
+
+    <p>Zhen Wang*, <strong>Shijie Zhou</strong>*, Jeong Joon Park, Despoina Paschalidou, Suya You, Gordon Wetzstein, Leonidas Guibas, Achuta Kadambi</p>
+
+    <p><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ALTO_Alternating_Latent_Topologies_for_Implicit_3D_Reconstruction_CVPR_2023_paper.pdf"><strong>Paper</strong></a> | <a href="https://visual.ee.ucla.edu/alto.htm/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
+    <ul>
+      <li>Rethinking latent topologies for fast and detailed implicit 3D reconstructions.</li>
+    </ul>
+  </div>
+</div>
 
 <h1 id="-honors-and-awards">🎖 Honors and Awards</h1>
 <ul>
-  <li><em>2021.10</em> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
-  <li><em>2021.09</em> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
+  <li><em>2021</em> Graduate Dean’s Scholar Award, UCLA</li>
+  <li><em>2020</em> MS Honors Students, Columbia University</li>
+  <li><em>2019</em> Outstanding Graduate, University of Electronic Science and Technology of China</li>
+  <li><em>2018</em> James Watt Award, University of Glasgow</li>
 </ul>
 
-<h1 id="-educations">📖 Educations</h1>
+<h1 id="-experience">💻 Experience</h1>
 <ul>
-  <li><em>2019.06 - 2022.04 (now)</em>, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
-  <li><em>2015.09 - 2019.06</em>, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
+  <li><em>2023.06 - 2023.09</em>, Visiting Academic at USC ICT</li>
 </ul>
 
-<h1 id="-invited-talks">💬 Invited Talks</h1>
+<h1 id="-teaching">📖 Teaching</h1>
 <ul>
-  <li><em>2021.06</em>, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
-  <li><em>2021.03</em>, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  | <a href="https://github.com/">[video]</a></li>
+  <li>Teaching Assistant @ UCLA: ECE188 Computer Vision, ECE113 Digital Signal Processing</li>
+  <li>Teaching Assistant @ Columbia: EECS6690 Statistical Learning, ELEN6885 Reinforcement Learning</li>
+  <li>Teaching Assistant @ UoG &amp; UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills</li>
 </ul>
 
-<h1 id="-internships">💻 Internships</h1>
-<ul>
-  <li><em>2019.05 - 2020.02</em>, <a href="https://github.com/">Lorem</a>, China.</li>
-</ul>
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
           </section>
         </div>

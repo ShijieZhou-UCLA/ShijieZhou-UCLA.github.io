@@ -6,17 +6,17 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Experience"
+    url: "/#-experience"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Teaching"
+    url: "/#-teaching"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
