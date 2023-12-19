@@ -64,7 +64,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - *2018* James Watt Award, University of Glasgow
 
 # 💻 Experience
-- *2023.06 - 2023.09*, Visiting Academic at USC ICT
+- *2023.06 - 2023.09*, Visiting Academic at USC Institute for Creative Technologies
 
 # 📖 Teaching
 - Teaching Assistant @ UCLA: ECE188 Computer Vision, ECE113 Digital Signal Processing 
