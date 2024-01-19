@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Electrical and Computer Engineering at UCLA advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my dual B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) and University of Glasgow in 2019. 
+I am a Ph.D. student in Electrical and Computer Engineering at UCLA advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019. 
 
 My research interest includes computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at UT Austin.
 
@@ -25,7 +25,7 @@ My research interest includes computer vision, computational imaging and generat
 # 🔥 News  
 - *2023.03*: One paper accepted to CVPR 2023. 
 - *2021.09*: Awarded Graduate Dean's Scholar Award from UCLA.
-- *2020.06*: Awarded MS Honors Students from Columbia University.
+- *2020.06*: Awarded MS Honors Student from Columbia University.
 
 # 📝 Selected Publications
 \* indicates equal contribution
@@ -59,7 +59,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 
 # 🎖 Honors and Awards
 - *2021* Graduate Dean’s Scholar Award, UCLA
-- *2020* MS Honors Students, Columbia University
+- *2020* MS Honors Student, Columbia University
 - *2019* Outstanding Graduate, University of Electronic Science and Technology of China
 - *2018* James Watt Award, University of Glasgow
 
