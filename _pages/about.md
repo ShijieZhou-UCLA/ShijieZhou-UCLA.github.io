@@ -61,7 +61,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - *2021* Graduate Dean’s Scholar Award, UCLA
 - *2020* MS Honors Student, Columbia University
 - *2019* Outstanding Graduate, University of Electronic Science and Technology of China
-- *2017-2018* James Watt Scholar, University of Glasgow (Joint Educational Program)
+- *2017-2018* James Watt Scholar, University of Glasgow
 
 # 💻 Experience
 - *2023.06 - 2023.09*, Visiting Academic at USC Institute for Creative Technologies
