@@ -71,6 +71,8 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Teaching Assistant @ Columbia: EECS6690 Statistical Learning, ELEN6885 Reinforcement Learning
 - Teaching Assistant @ UoG & UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills
 
+# 🖋️ Services
+- Reviewer: ECCV 2024, AI for 3D Content Creation @ ICCV 2023
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
