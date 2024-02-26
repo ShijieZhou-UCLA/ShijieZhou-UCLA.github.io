@@ -23,14 +23,15 @@ My research interest includes computer vision, computational imaging and generat
 
 
 # 🔥 News  
-- *2023.03*: One paper accepted to CVPR 2023. 
+- *2024.02*: One paper accepted to CVPR 2024.
+- *2023.02*: One paper accepted to CVPR 2023. 
 - *2021.09*: Awarded Graduate Dean's Scholar Award from UCLA.
 - *2020.06*: Awarded MS Honors Student from Columbia University.
 
 # 📝 Selected Publications
 \* indicates equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/feature_3dgs_teaser.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/feature_3dgs_teaser.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields
