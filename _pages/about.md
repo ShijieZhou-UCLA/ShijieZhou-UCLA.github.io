@@ -73,7 +73,3 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 
 # 🖋️ Services
 - Reviewer: ECCV 2024, AI for 3D Content Creation @ ICCV 2023
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
