@@ -21,8 +21,10 @@ I am a Ph.D. student in Electrical and Computer Engineering at UCLA advised by [
 
 My research interest includes computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at UT Austin.
 
+I will be joining Google as a Student Researcher in Summer 2024. Please feel free to reach out if you are interested in collaboration.
 
-# 🔥 News  
+# 🔥 News
+- *2024.04*: [Feature 3DGS](https://feature-3dgs.github.io/) was selected as a Highlight paper at CVPR 2024 (2.8% of 11532 submissions)! 🎉 
 - *2024.02*: One paper accepted to CVPR 2024.
 - *2023.02*: One paper accepted to CVPR 2023. 
 - *2021.09*: Awarded Graduate Dean's Scholar Award from UCLA.
@@ -38,7 +40,7 @@ My research interest includes computer vision, computational imaging and generat
 
 **Shijie Zhou**, Haoran Chang\*, Sicheng Jiang\*, Zhiwen Fan, Zehao Zhu, Dejia Xu, Pradyumna Chari, Suya You, Zhangyang Wang, Achuta Kadambi
 
-[**Paper**](https://arxiv.org/pdf/2312.03203.pdf) | [**Project**](https://feature-3dgs.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2312.03203.pdf) | [**Project**](https://feature-3dgs.github.io/) (<span style="color: red;">CVPR 2024 Highlight</span>)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Feature 3DGS 🪄, distills feature fields from 2D foundation models, opening the door to a brand new semantic, editable, and promptable explicit 3D scene representation.
 </div>
 </div>
