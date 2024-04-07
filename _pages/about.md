@@ -21,7 +21,8 @@ I am a Ph.D. student in Electrical and Computer Engineering at UCLA advised by [
 
 My research interest includes computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at UT Austin.
 
-I will be joining Google as a Student Researcher in Summer 2024. Please feel free to reach out if you are interested in collaboration.
+I will be joining <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in Summer 2024.
+
 
 # 🔥 News
 - *2024.04*: [Feature 3DGS](https://feature-3dgs.github.io/) was selected as a Highlight paper at CVPR 2024 (2.8% of 11532 submissions)! 🎉 
@@ -32,6 +33,18 @@ I will be joining Google as a Student Researcher in Summer 2024. Please feel fre
 
 # 📝 Selected Publications
 \* indicates equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dreamscene360.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting
+
+**Shijie Zhou**\*, Zhiwen Fan\*, Dejia Xu\*, Haoran Chang, Pradyumna Chari, Tejas Bharadwaj, Suya You, Zhangyang Wang, Achuta Kadambi
+
+[**Paper**]() | [**Project**](https://dreamscene360.github.io/) (Coming Soon!)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce a 3D scene generation pipeline that creates immersive scenes with full 360$^{\circ}$ coverage from text prompts of any level of specificity.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/feature_3dgs_teaser.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,6 +80,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - *2017-2018* James Watt Scholar, University of Glasgow
 
 # 💻 Experience
+- *2024.06 - 2024.09*, Student Researcher at Google
 - *2023.06 - 2023.09*, Visiting Academic at USC Institute for Creative Technologies
 
 # 📖 Teaching
