@@ -41,7 +41,7 @@ I will be joining <img src="images/Google_logo.png" alt="Google" style="height: 
 
 **Shijie Zhou**\*, Zhiwen Fan\*, Dejia Xu\*, Haoran Chang, Pradyumna Chari, Tejas Bharadwaj, Suya You, Zhangyang Wang, Achuta Kadambi
 
-[**Paper**]() | [**Project**](https://dreamscene360.github.io/) (Coming Soon!)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2404.06903.pdf) | [**Project**](https://dreamscene360.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We introduce a 3D scene generation pipeline that creates immersive scenes with full 360$^{\circ}$ coverage from text prompts of any level of specificity.
 </div>
 </div>
