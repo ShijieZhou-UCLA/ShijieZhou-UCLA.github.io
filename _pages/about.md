@@ -80,7 +80,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - *2017-2018* James Watt Scholar, University of Glasgow
 
 # 💻 Experience
-- *2024.06 - 2024.09*, Student Researcher at Google
+- *2024.06 - now*, Student Researcher at Google
 - *2023.06 - 2023.09*, Visiting Academic at USC Institute for Creative Technologies
 
 # 📖 Teaching
@@ -89,4 +89,5 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Teaching Assistant @ UoG & UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills
 
 # 🖋️ Services
-- Reviewer: ECCV 2024, AI for 3D Content Creation @ ICCV 2023
+- Conference Reviewer: NeurIPS 2024, ECCV 2024
+- Workshop Reviewer: AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
