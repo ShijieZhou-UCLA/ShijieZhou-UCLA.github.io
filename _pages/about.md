@@ -21,10 +21,11 @@ I am a Ph.D. student in Electrical and Computer Engineering at University of Cal
 
 My research interests include computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
-I will be joining <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in Summer 2024.
+I joined <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in Summer 2024.
 
 
 # 🔥 News
+- *2024.07*: One paper accepted to ECCV 2024.
 - *2024.04*: [Feature 3DGS](https://feature-3dgs.github.io/) was selected as a Highlight paper at CVPR 2024 (2.8% of 11532 submissions)! 🎉 
 - *2024.02*: One paper accepted to CVPR 2024.
 - *2023.02*: One paper accepted to CVPR 2023. 
@@ -34,7 +35,7 @@ I will be joining <img src="images/Google_logo.png" alt="Google" style="height: 
 # 📝 Selected Publications
 \* indicates equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dreamscene360.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dreamscene360.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting
