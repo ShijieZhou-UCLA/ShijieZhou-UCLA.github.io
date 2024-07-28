@@ -78,7 +78,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - *2021* Graduate Dean’s Scholar Award, UCLA
 - *2020* MS Honors Student, Columbia University
 - *2019* Outstanding Graduate, University of Electronic Science and Technology of China
-- *2017-2018* James Watt Scholar, University of Glasgow
+- *2018* James Watt Scholar, University of Glasgow
 
 # 💻 Experience
 - *2024.06 - now*, Student Researcher at Google
@@ -90,5 +90,6 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Teaching Assistant @ UoG & UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills
 
 # 🖋️ Services
-- Conference Reviewer: NeurIPS 2024, ECCV 2024
+- Conference Reviewer: NeurIPS 2024, ECCV 2024, 3DV 2025
+- Journal Reviewer: Pattern Recognition
 - Workshop Reviewer: AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
