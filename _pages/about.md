@@ -25,6 +25,7 @@ I joined <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> 
 
 
 # 🔥 News
+- *2024.09*: One paper accepted to NeurIPS 2024.
 - *2024.07*: One paper accepted to ECCV 2024.
 - *2024.04*: [Feature 3DGS](https://feature-3dgs.github.io/) was selected as a Highlight paper at CVPR 2024 (2.8% of 11532 submissions)! 🎉 
 - *2024.02*: One paper accepted to CVPR 2024.
