@@ -24,8 +24,8 @@ My research interests include 3D computer vision and generative AI.
 Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (foundation models), and interaction (agentic AI).
 I am also actively collaborating with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
-<!-- I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in 2024.  -->
-<span style="color: red;">I am seeking Summer internship and full-time job opportunities for 2025-2026. Please feel free to reach out if you’re interested in working with me :)</span>
+I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in 2024. 
+<span style="color: red;">Now I am seeking Summer internship and full-time job opportunities for 2025-2026. Please feel free to reach out if you’re interested in working with me :)</span>
 
 # 🔥 News
 - *2024.10*: Awarded J.B. Fourier Scholar in Vision and Graphics from UCLA.
