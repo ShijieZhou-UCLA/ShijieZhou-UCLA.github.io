@@ -19,12 +19,16 @@ redirect_from:
 
 I am a Ph.D. student in Electrical and Computer Engineering at University of California, Los Angeles advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019. 
 
-My research interests include computer vision, computational imaging and generative AI. Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations. I am also actively collaborating with the groups of [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
+My research interests include 3D computer vision and generative AI. 
+<!-- Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations.  -->
+Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (foundation models), and interaction (agentic AI).
+I am also actively collaborating with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
-I joined <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in Summer 2024.
-
+<!-- I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in 2024.  -->
+<span style="color: red;">I am seeking Summer internship and full-time job opportunities for 2025-2026. Please feel free to reach out if you’re interested in working with me :)</span>
 
 # 🔥 News
+- *2024.10*: Awarded J.B. Fourier Scholar in Vision and Graphics from UCLA.
 - *2024.09*: One paper accepted to NeurIPS 2024.
 - *2024.07*: One paper accepted to ECCV 2024.
 - *2024.04*: [Feature 3DGS](https://feature-3dgs.github.io/) was selected as a Highlight paper at CVPR 2024 (2.8% of 11532 submissions)! 🎉 
@@ -76,13 +80,14 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 
 
 # 🎖 Honors and Awards
+- *2024* J.B. Fourier Scholar in Vision and Graphics, UCLA
 - *2021* Graduate Dean’s Scholar Award, UCLA
 - *2020* MS Honors Student, Columbia University
 - *2019* Outstanding Graduate, University of Electronic Science and Technology of China
 - *2018* James Watt Scholar, University of Glasgow
 
-# 💻 Experience
-- *2024.06 - now*, Student Researcher at Google
+# 💻 Work Experience
+- *2024.06 - 2024.11*, Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> 
 - *2023.06 - 2023.09*, Visiting Academic at USC Institute for Creative Technologies
 
 # 📖 Teaching
@@ -90,7 +95,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Teaching Assistant @ Columbia: EECS6690 Statistical Learning, ELEN6885 Reinforcement Learning
 - Teaching Assistant @ UoG & UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills
 
-# 🖋️ Services
-- Conference Reviewer: ICLR 2025, 3DV 2025, NeurIPS 2024, ECCV 2024
+# 🖋️ Service
+- Conference Reviewer: CVPR 2025, ICLR 2025, 3DV 2025, NeurIPS 2024, ECCV 2024
 - Journal Reviewer: Pattern Recognition
 - Workshop Reviewer: AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
