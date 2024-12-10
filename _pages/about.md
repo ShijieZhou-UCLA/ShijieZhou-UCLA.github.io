@@ -40,6 +40,19 @@ I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px
 # 📝 Selected Publications
 \* indicates equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/feature4x.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields
+
+**Shijie Zhou**\*, Hui Ren\*, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi
+
+[**Paper (Coming Soon)**]() | [**Project**](https://feature4x.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Building 4D interactive scenes with agentic AI from monocular videos, by dynamically distilling model-conditioned
+features and integrating 2D foundation models with LLMs in feedback loops.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dreamscene360.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
