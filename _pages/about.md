@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Electrical and Computer Engineering at University of California, Los Angeles advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019. 
+I am a Ph.D. candidate in Electrical and Computer Engineering at University of California, Los Angeles advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019. 
 
 My research interests include 3D computer vision and generative AI. 
 <!-- Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations.  -->
@@ -25,7 +25,7 @@ Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), gen
 I am also actively collaborating with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
 I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in 2024. 
-<span style="color: red;">Now I am actively seeking research internship opportunities starting in 2025 :)</span>
+<!-- <span style="color: red;">Now I am actively seeking research internship opportunities starting in 2025 :)</span> -->
 
 # 🔥 News
 - *2025.01*: One paper accepted to ICLR 2025.
