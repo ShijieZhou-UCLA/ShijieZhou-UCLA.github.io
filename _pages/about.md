@@ -28,6 +28,7 @@ I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px
 <!-- <span style="color: red;">Now I am actively seeking research internship opportunities starting in 2025 :)</span> -->
 
 # 🔥 News
+- *2025.02*: [4K4DGen](https://4k4dgen.github.io/) (4D version of [DreamScene360](https://dreamscene360.github.io/)) was selected as a Spotlight at ICLR 2025 (5.1% of 11565 submissions)! 🎉 
 - *2025.01*: One paper accepted to ICLR 2025.
 - *2024.10*: Awarded J.B. Fourier Scholar in Vision and Graphics from UCLA.
 - *2024.09*: One paper accepted to NeurIPS 2024.
