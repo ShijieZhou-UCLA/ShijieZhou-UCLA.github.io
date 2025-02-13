@@ -111,6 +111,6 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Teaching Assistant @ UoG & UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills
 
 # 🖋️ Service
-- Conference Reviewer: SIGGRAPH 2025, CVPR 2025, ICML 2025, ICLR 2025, 3DV 2025, NeurIPS 2024, ECCV 2024
+- Conference Reviewer: SIGGRAPH 2025, ICCV 2025, CVPR 2025, ICML 2025, ICLR 2025, 3DV 2025, NeurIPS 2024, ECCV 2024
 - Journal Reviewer: IEEE Transactions on Multimedia, Pattern Recognition
 - Workshop Reviewer: AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
