@@ -21,7 +21,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at University of C
 
 My research interests include 3D computer vision and generative AI. 
 <!-- Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations.  -->
-Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (foundation models), reasoning (vision language models), and interaction (agentic AI).
+Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI).
 I am also actively working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
 I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in 2024. 
