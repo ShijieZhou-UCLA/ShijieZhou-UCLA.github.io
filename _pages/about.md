@@ -21,13 +21,14 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at University of C
 
 My research interests include 3D computer vision and generative AI. 
 <!-- Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations.  -->
-Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (foundation models), and interaction (agentic AI).
+Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (foundation models), reasoning (vision language models), and interaction (agentic AI).
 I am also actively working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
 I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in 2024. 
 <!-- <span style="color: red;">Now I am actively seeking research internship opportunities starting in 2025 :)</span> -->
 
 # 🔥 News
+- *2025.02*: Two papers accepted to CVPR 2025.
 - *2025.02*: [4K4DGen](https://4k4dgen.github.io/) (4D version of [DreamScene360](https://dreamscene360.github.io/)) was selected as a Spotlight at ICLR 2025 (5.1% of 11565 submissions)! 🎉 
 - *2025.01*: One paper accepted to ICLR 2025.
 - *2024.10*: Awarded J.B. Fourier Scholar in Vision and Graphics from UCLA.
@@ -42,7 +43,7 @@ I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px
 # 📝 Selected Publications
 \* indicates equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/feature4x.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/feature4x.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields
@@ -111,6 +112,6 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Teaching Assistant @ UoG & UESTC: 1008 Microelectronic Systems, 3010 Team Design Project and Skills
 
 # 🖋️ Service
-- Conference Reviewer: SIGGRAPH 2025, ICCV 2025, CVPR 2025, ICML 2025, ICLR 2025, 3DV 2025, NeurIPS 2024, ECCV 2024
+- Conference Reviewer: SIGGRAPH 2025, CVPR 2025, ICCV 2025, ICML 2025, ICLR 2025, 3DV 2025, NeurIPS 2025/2024, ECCV 2024
 - Journal Reviewer: IEEE Transactions on Multimedia, Pattern Recognition
 - Workshop Reviewer: AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
