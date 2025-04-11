@@ -28,6 +28,7 @@ I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px
 <!-- <span style="color: red;">Now I am actively seeking research internship opportunities starting in 2025 :)</span> -->
 
 # 🔥 News
+- *2024.04*: [X-Dyna](https://x-dyna.github.io/xdyna.github.io/) was selected as a Highlight paper at CVPR 2025 (2.98% of 13008 submissions)! 🎉 
 - *2025.02*: Two papers accepted to CVPR 2025.
 - *2025.02*: [4K4DGen](https://4k4dgen.github.io/) (4D version of [DreamScene360](https://dreamscene360.github.io/)) was selected as a Spotlight at ICLR 2025 (5.1% of 11565 submissions)! 🎉 
 - *2025.01*: One paper accepted to ICLR 2025.
@@ -50,7 +51,7 @@ I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px
 
 **Shijie Zhou**\*, Hui Ren\*, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi
 
-[**Paper (Coming Soon)**]() | [**Project**](https://feature4x.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2503.20776) | [**Project**](https://feature4x.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Building 4D interactive scenes with agentic AI from monocular videos, by dynamically distilling model-conditioned
 features and integrating 2D foundation models with LLMs in feedback loops.
 </div>
