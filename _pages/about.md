@@ -44,6 +44,18 @@ I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px
 # 📝 Selected Publications
 \* indicates equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/vlm4d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## VLM4D: Towards Spatiotemporal Awareness in Vision Language Models
+
+**Shijie Zhou**\*, Alexander Vilesov\*, Xuehai He\*, Ziyu Wan, Shuwang Zhang, Aditya Nagachandra, Di Chang, Dongdong Chen, Xin Eric Wang, Achuta Kadambi
+
+[**Paper**](https://vlm4d.github.io/file/VLM4D.pdf) | [**Project**](https://vlm4d.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose the first benchmark explicitly designed to rigorously evaluate the spatiotemporal reasoning capabilities of Vision-Language Models (VLMs).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/feature4x.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
