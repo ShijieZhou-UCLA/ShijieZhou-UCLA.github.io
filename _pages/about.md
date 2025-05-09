@@ -21,14 +21,16 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at University of C
 
 My research interests include 3D computer vision and generative AI. 
 <!-- Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations.  -->
-Currently, I am focusing on 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI).
+Currently, my research focuses on building spatial intelligence, including 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI).
 I am also actively working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
-I interned at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> as a Student Researcher in 2024. 
-<!-- <span style="color: red;">Now I am actively seeking research internship opportunities starting in 2025 :)</span> -->
+<!-- I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> in 2024. 
+<!-- <span style="color: red;">I am actively seeking full-time research scientist opportunities starting in 2026 :)</span> -->
+<!-- **I will be on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.** --> 
+I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024. **I will be on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.**
 
 # 🔥 News
-- *2024.04*: [X-Dyna](https://x-dyna.github.io/xdyna.github.io/) was selected as a Highlight paper at CVPR 2025 (2.98% of 13008 submissions)! 🎉 
+- *2025.04*: [X-Dyna](https://x-dyna.github.io/xdyna.github.io/) was selected as a Highlight paper at CVPR 2025 (2.98% of 13008 submissions)! 🎉 
 - *2025.02*: Two papers accepted to CVPR 2025.
 - *2025.02*: [4K4DGen](https://4k4dgen.github.io/) (4D version of [DreamScene360](https://dreamscene360.github.io/)) was selected as a Spotlight at ICLR 2025 (5.1% of 11565 submissions)! 🎉 
 - *2025.01*: One paper accepted to ICLR 2025.
@@ -106,7 +108,35 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 </div>
 </div>
 
+<li>
+  <span style="background-color:#0036A0; color:white; padding:3px 5px; border-radius:0px; font-size: 0.75em; font-weight:bold; margin-right:6px;">
+    ICLR 2025
+  </span>
+  <strong><a href="https://4k4dgen.github.io/" target="_blank" style="text-decoration: none; color:black;">
+  4K4DGen: Panoramic 4D Generation at 4K Resolution,
+  </a></strong>
+  Renjie Li, Panwang Pan, Bangbang Yang, Dejia Xu, <strong>Shijie Zhou</strong>, Xuanyang Zhang, Zeming Li, Achuta Kadambi, Zhangyang Wang, Zhengzhong Tu, Zhiwen Fan (<span style="color: red;">Spotlight</span>)
+</li>
 
+<li>
+  <span style="background-color:#0036A0; color:white; padding:3px 2.9px; border-radius:0px; font-size: 0.75em; font-weight:bold; margin-right:6px;">
+    CVPR 2025
+  </span>
+  <strong><a href="https://x-dyna.github.io/xdyna.github.io/" target="_blank" style="text-decoration: none; color:black;">
+  X-Dyna: Expressive Dynamic Human Image Animation,
+  </a></strong>
+  Di Chang, Hongyi Xu, You Xie, Yipeng Gao, Zhengfei Kuang, Shengqu Cai, Chenxu Zhang, Guoxian Song, Chao Wang, Yichun Shi, Zeyuan Chen, <strong>Shijie Zhou</strong>, Linjie Luo, Gordon Wetzstein, Mohammad Soleymani (<span style="color: red;">Highlight</span>)
+</li>
+
+<li>
+  <span style="background-color:#0036A0; color:white; padding:3px 2.9px; border-radius:0px; font-size: 0.75em; font-weight:bold; margin-right:6px;">
+  NeurIPS 2024
+  </span>
+  <strong><a href="https://largespatialmodel.github.io/" target="_blank" style="text-decoration: none; color:black;">
+  Large Spatial Model: End-to-end Unposed Images to Semantic 3D,
+  </a></strong>
+  Zhiwen Fan, Jian Zhang, Wenyan Cong, Peihao Wang, Renjie Li, Kairun Wen, <strong>Shijie Zhou</strong>, Achuta Kadambi, Zhangyang Wang, Danfei Xu, Boris Ivanovic, Marco Pavone, Yue Wang
+</li>
 
 # 🎖 Honors and Awards
 - *2024* J.B. Fourier Scholar in Vision and Graphics, UCLA
@@ -116,6 +146,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - *2018* James Watt Scholar, University of Glasgow
 
 # 💻 Work Experience
+- *2025.04 - now*, Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple
 - *2024.06 - 2024.11*, Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> 
 - *2023.06 - 2023.09*, Visiting Academic at USC Institute for Creative Technologies
 
@@ -126,5 +157,5 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 
 # 🖋️ Service
 - Conference Reviewer: SIGGRAPH 2025, CVPR 2025, ICCV 2025, ICML 2025, ICLR 2025, 3DV 2025, NeurIPS 2025/2024, ECCV 2024
-- Journal Reviewer: IEEE Transactions on Multimedia, Pattern Recognition
+- Journal Reviewer: International Journal of Computer Vision, IEEE Transactions on Multimedia, Pattern Recognition
 - Workshop Reviewer: AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
