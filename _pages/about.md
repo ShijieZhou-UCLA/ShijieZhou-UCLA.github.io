@@ -30,6 +30,7 @@ I am also actively working with [Prof. Leonidas Guibas](https://geometry.stanfor
 I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024. **I will be on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.**
 
 # 🔥 News
+- *2025.05*: Awarded Dissertation Year Award from UCLA.
 - *2025.04*: [X-Dyna](https://x-dyna.github.io/xdyna.github.io/) was selected as a Highlight paper at CVPR 2025 (2.98% of 13008 submissions)! 🎉 
 - *2025.02*: Two papers accepted to CVPR 2025.
 - *2025.02*: [4K4DGen](https://4k4dgen.github.io/) (4D version of [DreamScene360](https://dreamscene360.github.io/)) was selected as a Spotlight at ICLR 2025 (5.1% of 11565 submissions)! 🎉 
@@ -139,6 +140,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 </li>
 
 # 🎖 Honors and Awards
+- *2025* Dissertation Year Award, UCLA
 - *2024* J.B. Fourier Scholar in Vision and Graphics, UCLA
 - *2021* Graduate Dean’s Scholar Award, UCLA
 - *2020* MS Honors Student, Columbia University
