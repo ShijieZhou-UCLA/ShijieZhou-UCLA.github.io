@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at University of California, Los Angeles (UCLA) advised by [Prof. Achuta Kadambi](https://www.ee.ucla.edu/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
+I am a Ph.D. candidate in Electrical and Computer Engineering at University of California, Los Angeles (UCLA) advised by [Prof. Achuta Kadambi](https://samueli.ucla.edu/people/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
 
 My research interests include 3D computer vision and generative AI. 
 <!-- Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations.  -->
 Currently, my research focuses on building spatial intelligence, including 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI).
-I am also actively working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
+I am also actively working with [Prof. Leonidas Guibas](https://profiles.stanford.edu/leonidas-guibas) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
 <!-- I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> in 2024. 
 <!-- <span style="color: red;">I am actively seeking full-time research scientist opportunities starting in 2026 :)</span> -->
 <!-- **I will be on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.** --> 
-I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024. **I will be on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.**
+I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024. **I am on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.**
 
 # 🔥 News
+- *2025.06*: One paper accepted to ICCV 2025.
 - *2025.05*: Awarded Dissertation Year Award from UCLA.
 - *2025.04*: [X-Dyna](https://x-dyna.github.io/xdyna.github.io/) was selected as a Highlight paper at CVPR 2025 (2.98% of 13008 submissions)! 🎉 
 - *2025.02*: Two papers accepted to CVPR 2025.
@@ -47,7 +48,7 @@ I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" styl
 # 📝 Selected Publications
 \* indicates equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/vlm4d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vlm4d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## VLM4D: Towards Spatiotemporal Awareness in Vision Language Models
