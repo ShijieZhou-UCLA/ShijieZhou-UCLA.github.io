@@ -162,6 +162,6 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Conference Reviewer: <br>
   SIGGRAPH 2025, SIGGRAPH Asia 2025, CVPR 2025, ICCV 2025, ECCV 2024, NeurIPS 2025/2024, ICLR 2025, ICML 2025, 3DV 2025
 - Journal Reviewer: <br>
-  International Journal of Computer Vision, IEEE Transactions on Multimedia, Pattern Recognition
+  International Journal of Computer Vision, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, Pattern Recognition
 - Workshop Reviewer: <br>
-  AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
+  End-to-End 3D Learning @ ICCV 2025, AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
