@@ -55,7 +55,7 @@ I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" styl
 
 **Shijie Zhou**\*, Alexander Vilesov\*, Xuehai He\*, Ziyu Wan, Shuwang Zhang, Aditya Nagachandra, Di Chang, Dongdong Chen, Xin Eric Wang, Achuta Kadambi
 
-[**Paper**](https://vlm4d.github.io/file/VLM4D.pdf) | [**Project**](https://vlm4d.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://www.arxiv.org/pdf/2508.02095) | [**Project**](https://vlm4d.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose the first benchmark explicitly designed to rigorously evaluate the spatiotemporal reasoning capabilities of Vision-Language Models (VLMs).
 </div>
 </div>
