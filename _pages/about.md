@@ -17,17 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at University of California, Los Angeles (UCLA) advised by [Prof. Achuta Kadambi](https://samueli.ucla.edu/people/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
+I am a final-year Ph.D. candidate in Electrical and Computer Engineering at University of California, Los Angeles (UCLA), gratefully advised by [Prof. Achuta Kadambi](https://samueli.ucla.edu/people/achuta-kadambi/). Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by [Prof. John Wright](https://www.columbia.edu/~jw2966/). I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
 
-My research interests include 3D computer vision and generative AI. 
+My research interests include 3D computer vision, vision language models and generative AI. 
 <!-- Currently, I am focusing on 3D vision using both neural (implicit) and physical (explicit) representations.  -->
-Currently, my research focuses on building spatial intelligence, including 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI).
+Currently, my research focuses on exploring spatial intelligence, including 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI).
 I am also actively working with [Prof. Leonidas Guibas](https://profiles.stanford.edu/leonidas-guibas) at Stanford University and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at University of Texas at Austin.
 
 <!-- I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> in 2024. 
 <!-- <span style="color: red;">I am actively seeking full-time research scientist opportunities starting in 2026 :)</span> -->
 <!-- **I will be on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.** --> 
-I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024. **I am on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.**
+<!-- I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024.  -->
+
+I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024, and led a research collaboration with <a href="https://www.microsoft.com/en-us/research/publication/vlm4d-towards-spatiotemporal-awareness-in-vision-language-models/" target="_blank"><img src="images/microsoft.png" alt="Microsoft" style="height: 18px; margin-bottom: 3px;"/></a> in 2025. <span style="color: red;">**I am on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.**</span>
 
 # 🔥 News
 - *2025.06*: One paper accepted to ICCV 2025.
