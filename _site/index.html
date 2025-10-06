@@ -78,7 +78,7 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
-/* 将Twitter图标替换为X - 黑底白字版本 */
+/* Replace Twitter icon with X - black background with white text */
 .fa-twitter::before {
   content: "𝕏" !important;
   font-family: "Segoe UI Symbol", "Apple Color Emoji", "Noto Color Emoji", "Segoe UI Emoji", Arial, sans-serif !important;
@@ -98,6 +98,17 @@
   width: 0.74em !important;
   height: 0.74em !important;
   box-sizing: content-box !important;
+}
+
+/* Mobile icon style - gray X to match other icons */
+.author__urls-wrapper a .fa-twitter::before {
+  background-color: transparent !important;
+  color: #494e52 !important;
+  font-size: 1.2em !important;
+  padding: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  vertical-align: middle !important;
 }
 </style>
 
