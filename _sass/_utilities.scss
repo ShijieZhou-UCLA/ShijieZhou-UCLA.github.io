@@ -260,7 +260,8 @@ body:hover .visually-hidden button {
 
   .fa-twitter,
   .fa-twitter-square {
-    color: $twitter-color;
+    color: $x-twitter-color;
+    filter: none !important;
   }
 
   .fa-vimeo,
