@@ -159,7 +159,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - *2018* James Watt Scholar, University of Glasgow
 
 # 💻 Work Experience
-- *2025.04 - now*, Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple
+- *2025.04 - 2025.09*, Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple
 - *2024.06 - 2024.11*, Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height: 18px;"/> 
 - *2023.06 - 2023.09*, Visiting Academic at USC Institute for Creative Technologies
 
@@ -170,7 +170,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 
 # 🖋️ Service
 - Conference Reviewer: <br>
-  SIGGRAPH 2025, SIGGRAPH Asia 2025, CVPR 2025, ICCV 2025, ECCV 2024, NeurIPS 2025/2024, ICLR 2025, ICML 2025, 3DV 2025
+  SIGGRAPH 2025, SIGGRAPH Asia 2025, CVPR 2025/2026, ICCV 2025, ECCV 2024, NeurIPS 2025/2024, ICLR 2025, ICML 2025, 3DV 2025/2026
 - Journal Reviewer: <br>
   International Journal of Computer Vision, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, Pattern Recognition
 - Workshop Reviewer: <br>
