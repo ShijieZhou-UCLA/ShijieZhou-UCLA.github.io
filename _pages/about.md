@@ -40,7 +40,7 @@ I worked as a Research Intern at <img src="images/Apple.svg" alt="Apple" style="
 </p>
 
 # 🔥 News
-- *2025.11*: [VLM4D](https://vlm4d.github.io/) was selected as Best of ICCV by Voxel51 (the invited talk recording can be found [here](https://voxel51.com/events/best-of-iccv-november-24-2025))! 🎉 
+- *2025.11*: [VLM4D](https://vlm4d.github.io/) was selected as Best of ICCV by Voxel51 (the invited talk recording can be found [here](https://www.youtube.com/watch?v=iI8-FD0-enw&list=PLuREAXoPgT0SA9EdIxtJha-NXaq10KTMZ&index=1))! 🎉 
 - *2025.06*: One paper accepted to ICCV 2025.
 - *2025.05*: Awarded Dissertation Year Award from UCLA.
 - *2025.04*: [X-Dyna](https://x-dyna.github.io/xdyna.github.io/) was selected as a Highlight paper at CVPR 2025 (2.98% of 13008 submissions)! 🎉 
