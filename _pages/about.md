@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p style="text-align: justify;">
-I am a final-year Ph.D. candidate in Electrical and Computer Engineering at University of California, Los Angeles (UCLA), gratefully advised by <a href="https://samueli.ucla.edu/people/achuta-kadambi/">Prof. Achuta Kadambi</a>. Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by <a href="https://www.columbia.edu/~jw2966/">Prof. John Wright</a>. I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
+I am an incoming Research Scientist at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/>. I earned my PhD in Electrical and Computer Engineering at University of California, Los Angeles (UCLA) in 2026, where I was gratefully advised by <a href="https://samueli.ucla.edu/people/achuta-kadambi/">Prof. Achuta Kadambi</a>. Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by <a href="https://www.columbia.edu/~jw2966/">Prof. John Wright</a>. I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
 </p>
 
 <!-- My research interests include 3D computer vision, vision language models and generative AI. Currently, my research focuses on exploring spatial intelligence, including 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI). -->
 <!-- My research focuses on 3D computer vision and multimodal generative AI, especially advancing world models with spatial intelligence to integrate geometry, semantics, and dynamics. My work spans 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI) in real-world environments. -->
 <p style="text-align: justify;">
 My research focuses on 3D computer vision and multimodal generative modeling, advancing world models with spatial intelligence that integrate geometry, semantics, dynamics, and interactivity. My recent work extends visual reconstruction, generation, and reasoning from 2D into the 3D/4D domain, enabling physically grounded spatial intelligence through coherent scene representation and multimodal modeling for applications in mixed reality, robotics, and agentic AI.
-During my Ph.D., I also had the privilege of collaborating with <a href="https://profiles.stanford.edu/leonidas-guibas">Prof. Leonidas Guibas</a> at Stanford University and <a href="https://www.ece.utexas.edu/people/faculty/atlas-wang">Prof. Atlas Wang</a> at the University of Texas at Austin.
+During my PhD, I also had the privilege of collaborating with <a href="https://profiles.stanford.edu/leonidas-guibas">Prof. Leonidas Guibas</a> at Stanford University and <a href="https://www.ece.utexas.edu/people/faculty/atlas-wang">Prof. Atlas Wang</a> at the University of Texas at Austin.
 
 <!-- During my PhD, I was also actively working with <a href="https://profiles.stanford.edu/leonidas-guibas">Prof. Leonidas Guibas</a> at Stanford University and <a href="https://www.ece.utexas.edu/people/faculty/atlas-wang">Prof. Atlas Wang</a> at University of Texas at Austin. -->
 </p>
@@ -36,10 +36,12 @@ During my Ph.D., I also had the privilege of collaborating with <a href="https:/
 <!-- I am currently a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple, and I was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024.  -->
 
 <p style="text-align: justify;">
-I worked as a Research Intern at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple in 2025, was a Student Researcher at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> in 2024, and led a research collaboration with <a href="https://www.microsoft.com/en-us/research/publication/vlm4d-towards-spatiotemporal-awareness-in-vision-language-models/" target="_blank"><img src="images/microsoft.png" alt="Microsoft" style="height: 18px; margin-bottom: 3px;"/></a> in 2025. <strong style="color: red;">I am on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.</strong>
+My industry experience includes research internships at <img src="images/Apple.svg" alt="Apple" style="height: 15px; margin-bottom: 6px;"/> Apple (2025) and <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/> (2024), as well as leading a research collaboration with <a href="https://www.microsoft.com/en-us/research/publication/vlm4d-towards-spatiotemporal-awareness-in-vision-language-models/" target="_blank"><img src="images/microsoft.png" alt="Microsoft" style="height: 18px; margin-bottom: 3px;"/></a> (2025). 
+<!-- <strong style="color: red;">I am on the job market and actively seeking full-time research scientist/engineer opportunities starting in 2026.</strong> -->
 </p>
 
 # 🔥 News
+- *2026.02*: Two papers accepted to CVPR 2026.
 - *2025.11*: [VLM4D](https://vlm4d.github.io/) was selected as Best of ICCV by Voxel51 (the invited talk recording can be found [here](https://www.youtube.com/watch?v=iI8-FD0-enw&list=PLuREAXoPgT0SA9EdIxtJha-NXaq10KTMZ&index=1))! 🎉 
 - *2025.06*: One paper accepted to ICCV 2025.
 - *2025.05*: Awarded Dissertation Year Award from UCLA.
@@ -171,8 +173,8 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 
 # 🖋️ Service
 - Conference Reviewer: <br>
-  SIGGRAPH 2025, SIGGRAPH Asia 2025, CVPR 2025/2026, ICCV 2025, ECCV 2024, NeurIPS 2025/2024, ICLR 2025, ICML 2025, 3DV 2025/2026
+  SIGGRAPH 2025, SIGGRAPH Asia 2025, CVPR 2025/2026, ICCV 2025, ECCV 2024/2026, NeurIPS 2025/2024, ICLR 2025, ICML 2025, 3DV 2025/2026, BMVC 2026
 - Journal Reviewer: <br>
-  International Journal of Computer Vision, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, Pattern Recognition
+  International Journal of Computer Vision, Transactions on Machine Learning Research, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, Pattern Recognition
 - Workshop Reviewer: <br>
   End-to-End 3D Learning @ ICCV 2025, AI for 3D Generation @ CVPR 2024, AI for 3D Content Creation @ ICCV 2023
