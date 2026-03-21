@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shijie Zhou"
   avatar           : "images/myself.jpeg"
-  bio              : "Research Scientist, Google PhD, UCLA '26"
+  bio              : "Research Scientist, Google <br> PhD, UCLA"
   location         : "Bay Area, California, USA"
   employer         :
   pubmed           : 
