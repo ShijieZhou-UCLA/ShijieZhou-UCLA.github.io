@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p style="text-align: justify;">
-I am a Research Scientist at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/>. I earned my Ph.D. in Electrical and Computer Engineering at University of California, Los Angeles (UCLA) in 2026, where I was gratefully advised by <a href="https://samueli.ucla.edu/people/achuta-kadambi/">Prof. Achuta Kadambi</a>. Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by <a href="https://www.columbia.edu/~jw2966/">Prof. John Wright</a>. I received my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
+I am a Research Scientist at <img src="images/Google_logo.png" alt="Google" style="height:18px; vertical-align:middle;"/>, where I am working on bringing spatial intelligence into real life with 🕶️ XR (Project Aura) and <img src="images/deepmind.jpg" alt="DeepMind" style="height: 15px; margin-bottom: 3px;"/> DeepMind (Project Astra) teams. I received my Ph.D. in Electrical and Computer Engineering at University of California, Los Angeles (UCLA) in 2026, where I was gratefully advised by <a href="https://samueli.ucla.edu/people/achuta-kadambi/">Prof. Achuta Kadambi</a>. Previously, I obtained my M.S. in Electrical Engineering from Columbia University in 2021, where I was fortunate to be advised by <a href="https://www.columbia.edu/~jw2966/">Prof. John Wright</a>. I completed my B.E. in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2019.
 </p>
 
 <!-- My research interests include 3D computer vision, vision language models and generative AI. Currently, my research focuses on exploring spatial intelligence, including 3D/4D scene reconstruction (Gaussian Splatting), generation (diffusion models), understanding (vision foundation models), reasoning (vision language models), and interaction (agentic AI). -->
@@ -41,6 +41,8 @@ My industry experience includes research internships at <img src="images/Apple.s
 </p>
 
 # 🔥 News
+- *2026.06*: Awarded Distinguished Ph.D. Dissertation Research Award from UCLA (<strong style="color: red;">Sole Gold recipient of the highest honor</strong>)! 🥇
+- *2026.06*: Selected to CVPR 2026 Doctoral Consortium! See you in Denver!
 - *2026.02*: Two papers accepted to CVPR 2026.
 - *2025.11*: [VLM4D](https://vlm4d.github.io/) was selected as Best of ICCV by Voxel51 (the invited talk recording can be found [here](https://www.youtube.com/watch?v=iI8-FD0-enw&list=PLuREAXoPgT0SA9EdIxtJha-NXaq10KTMZ&index=1))! 🎉 
 - *2025.06*: One paper accepted to ICCV 2025.
@@ -154,6 +156,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 </li>
 
 # 🎖 Honors and Awards
+- *2026* Distinguished Ph.D. Dissertation Research Award (Gold🥇), UCLA
 - *2025* Dissertation Year Award, UCLA
 - *2024* J.B. Fourier Scholar in Vision and Graphics, UCLA
 - *2021* Graduate Dean’s Scholar Award, UCLA
@@ -173,7 +176,7 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 
 # 🖋️ Service
 - Conference Reviewer: <br>
-  SIGGRAPH 2025, SIGGRAPH Asia 2025, CVPR 2025/2026, ICCV 2025, ECCV 2024/2026, NeurIPS 2025/2024, ICLR 2025, ICML 2025, 3DV 2025/2026, BMVC 2026
+  SIGGRAPH 2025, SIGGRAPH Asia 2025/2026, CVPR 2025/2026, ICCV 2025, ECCV 2024/2026, NeurIPS 2025/2024, ICLR 2025, ICML 2025, 3DV 2025/2026, BMVC 2026
 - Journal Reviewer: <br>
   International Journal of Computer Vision, Transactions on Machine Learning Research, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, Pattern Recognition
 - Workshop Reviewer: <br>
