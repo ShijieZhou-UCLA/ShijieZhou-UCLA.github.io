@@ -42,7 +42,7 @@ My industry experience includes research internships at <img src="images/Apple.s
 
 # 🔥 News
 - *2026.06*: Awarded Distinguished Ph.D. Dissertation Research Award from UCLA (<strong style="color: red;">Sole Gold recipient of the highest honor</strong>)! 🥇
-- *2026.06*: Selected to CVPR 2026 Doctoral Consortium! See you in Denver!
+- *2026.05*: Selected to CVPR 2026 Doctoral Consortium! See you in Denver!
 - *2026.02*: Two papers accepted to CVPR 2026.
 - *2025.11*: [VLM4D](https://vlm4d.github.io/) was selected as Best of ICCV by Voxel51 (the invited talk recording can be found [here](https://www.youtube.com/watch?v=iI8-FD0-enw&list=PLuREAXoPgT0SA9EdIxtJha-NXaq10KTMZ&index=1))! 🎉 
 - *2025.06*: One paper accepted to ICCV 2025.
@@ -62,6 +62,18 @@ My industry experience includes research internships at <img src="images/Apple.s
 
 # 📝 Selected Publications
 \* indicates equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/spatialstack.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning
+
+Jian Zhang\*, **Shijie Zhou**\*, Bangya Liu\*, Achuta Kadambi, Zhiwen Fan
+
+[**Paper**](https://arxiv.org/pdf/2603.27437) | [**Project**](https://spatial-stack.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Rethinking how VLMs consume vision-language-geometry information, SpatialStack introduces a general framework that stacks hierarchical geometric cues into the language backbone to enhance spatial reasoning.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vlm4d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,6 +136,16 @@ Zhen Wang\*, **Shijie Zhou**\*, Jeong Joon Park, Despoina Paschalidou, Suya You,
 - Rethinking latent topologies for fast and detailed implicit 3D reconstructions.
 </div>
 </div>
+
+<li>
+  <span style="background-color:#0036A0; color:white; padding:3px 2.9px; border-radius:0px; font-size: 0.75em; font-weight:bold; margin-right:6px;">
+    CVPR 2026
+  </span>
+  <strong><a href="https://vlm-3r.github.io/" target="_blank" style="text-decoration: none; color:black;">
+  VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction,
+  </a></strong>
+  Zhiwen Fan, Jian Zhang, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Peihao Wang, Huaizhi Qu, <strong>Shijie Zhou</strong>, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Tianlong Chen, Jiachen Li, Zhengzhong Tu, Zhangyang Wang, Rakesh Ranjan
+</li>
 
 <li>
   <span style="background-color:#0036A0; color:white; padding:3px 5px; border-radius:0px; font-size: 0.75em; font-weight:bold; margin-right:6px;">
